@@ -1,0 +1,17 @@
+
+.number{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(233, 150, 154);
+}
+.third{
+    font-size: 24px;
+}
+#special{
+    color: #0000ff;
+    font-size: 36px;
+}
+#alt-special{
+    background-color: rgb(196, 233, 196);
+    font-size: 24px;
+    font-weight: bold;
+}
